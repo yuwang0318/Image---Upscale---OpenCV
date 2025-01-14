@@ -1,6 +1,6 @@
 # Image Upscaling with OpenCV's Super-Resolution
 
-This project demonstrates how to upscale images using OpenCV's DNN Super-Resolution module with pre-trained EDSR and LapSRN models.
+This project demonstrates how to upscale images using OpenCV's Super-Resolution module with pre-trained EDSR and LapSRN models.
 
 ## Features
 
